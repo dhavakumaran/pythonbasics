@@ -1,0 +1,38 @@
+Variable
+
+Data
+  Base data types 
+  1. numeric
+    a. int - Integer 
+      eg. 1,-5,0
+    b. float - Floating point
+      eg. 5.7,11.12
+    c. complex - Complex numbers
+      eg. 7j,5f
+    int+int=int
+    int-int=int
+    int*int=int
+    int/int=float
+    int//int=int
+    
+    int any operation by float is float
+    
+  2. boolean - True / False
+  
+  Container data types
+   1. str - String     
+   2. seq - sequence
+    a. list
+    b. tuple
+    c. range
+    
+   3. dict - Mapping
+   
+   4. set 
+    a. set
+    b. frozenset
+     
+   5. binary sequence
+    a. bytes
+    b. bytearray
+    c. memoryview
